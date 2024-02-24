@@ -1,0 +1,18 @@
+#custom-color, .navbar-brand, .nav-link{
+    color: beige;
+}
+.landpage-container{
+    background-image: url(/Assets/Travel-agency-BG.png);
+    height: 95vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#landpage-texts{
+    margin-top: 200px;
+}
+.height{
+    height: 120vh;
+}
+.mrtop{
+    margin-block: 100px;
+}
