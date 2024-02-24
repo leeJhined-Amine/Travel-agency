@@ -1,5 +1,5 @@
 #custom-color, .navbar-brand, .nav-link{
-    color: beige;
+    color: #f5f5dc;
 }
 .landpage-container{
     background-image: url(/Assets/Travel-agency-BG.png);
@@ -15,4 +15,7 @@
 }
 .mrtop{
     margin-block: 100px;
+}
+.blcktxt{
+    color: black;
 }
